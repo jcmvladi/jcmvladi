@@ -22,6 +22,7 @@ Mis herramientas favoritas y las tecnologías con las que trabajo incluyen:
 
 Disfruto creando proyectos que combinan mi conocimiento en electrónica con soluciones de software innovadoras. Siempre estoy abierto a colaborar en ideas interesantes y desafíos tecnológicos.
 
+---
 
 ### 👉 Lenguajes de programación
 
@@ -89,6 +90,8 @@ Disfruto creando proyectos que combinan mi conocimiento en electrónica con solu
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
      &emsp; 
 </p>
+
+---
 
 ### 📫 Conectemos
 
