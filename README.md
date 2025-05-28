@@ -84,15 +84,12 @@ Disfruto creando proyectos que combinan mi conocimiento en electrónica con solu
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/fedora-35BF5C?style=for-the-badge&logo=fedora&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    
+     &emsp; 
 </p>
 
 ### 📫 Conectemos
