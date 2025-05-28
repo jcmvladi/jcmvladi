@@ -23,7 +23,7 @@ Mis herramientas favoritas y las tecnologías con las que trabajo incluyen:
 Disfruto creando proyectos que combinan mi conocimiento en electrónica con soluciones de software innovadoras. Siempre estoy abierto a colaborar en ideas interesantes y desafíos tecnológicos.
 
 
-### 👉 Programming languages
+### 👉 Lenguajes de programación
 
 <p align="left"> 
   <a href="https://dart.dev/">
@@ -60,7 +60,7 @@ Disfruto creando proyectos que combinan mi conocimiento en electrónica con solu
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Bases de datos y alojamiento
 <p align="left">
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
@@ -70,15 +70,13 @@ Disfruto creando proyectos que combinan mi conocimiento en electrónica con solu
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software y herramientas
  
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
