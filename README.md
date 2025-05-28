@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋 Soy [Tu Nombre]
+# ¡Hola a todos! 👋 Soy jcmvladi
 
 ---
 
@@ -12,15 +12,15 @@ Soy un **Ingeniero Electrónico** con una gran pasión por el desarrollo de soft
 
 Mis herramientas favoritas y las tecnologías con las que trabajo incluyen:
 
-* **Lenguajes:** Python, Dart, JavaScript, C
+* **Lenguajes:** Python, Dart, JavaScript, C entre otros...
 * **Frameworks/Librerías:** Flutter (para apps móviles), Django (para web), Kivy (para interfaces multiplataforma), OpenCV (para visión por computadora)
-* **En aprendizaje:** Estoy muy emocionado/a por sumergirme profundamente en el mundo de **Rust**.
+* **En aprendizaje:** Estoy muy emocionado por sumergirme profundamente en el mundo de **Rust**.
 
 ---
 
 ### ✨ Intereses
 
-Disfruto creando proyectos que combinan mi conocimiento en electrónica con soluciones de software innovadoras. Siempre estoy abierto/a a colaborar en ideas interesantes y desafíos tecnológicos.
+Disfruto creando proyectos que combinan mi conocimiento en electrónica con soluciones de software innovadoras. Siempre estoy abierto a colaborar en ideas interesantes y desafíos tecnológicos.
 
 ---
 
@@ -28,8 +28,6 @@ Disfruto creando proyectos que combinan mi conocimiento en electrónica con solu
 
 Puedes encontrarme por aquí en GitHub o contactarme a través de:
 
-* [Tu LinkedIn (ej. `linkedin.com/in/tuperfil`)]
-* [Tu Portfolio/Sitio Web (si tienes uno)]
-* [Tu Correo Electrónico (opcional, si quieres compartirlo)]
+* www.linkedin.com/in/jcmvladi
 
 ¡Gracias por visitar mi perfil!
